@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/a8d0ad1c616d6acda63efc82a5ef93d7002620810b51c2c7921a35bebdc2292f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d63756d6163656c616c" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=AIntelligent" style="max-width: 100%;">
+![](https://komarev.com/ghpvc/?username=AIntelligent&color=green)
 ### Hi there 👋
 
 <!--
