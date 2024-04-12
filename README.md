@@ -1,4 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=AIntelligent&color=green)
+![AIntelligent's Stats](https://github-readme-stats.vercel.app/api?username=AIntelligent&theme=default&show_icons=true&hide_border=true&count_private=true)
+![AIntelligent's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AIntelligent&theme=default&hide_border=true)
+![AIntelligent's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIntelligent&theme=default&show_icons=true&hide_border=true&layout=compact)
+
 ### Hi there 👋
 
 <!--
