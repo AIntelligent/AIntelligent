@@ -3,7 +3,7 @@
 ![AIntelligent's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIntelligent&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ### Hi there 👋. 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Never+mind+others%2C+then+come+to+my+world.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=550&lines=Never+mind+others%2C+then+come+to+my+world...)](https://git.io/typing-svg)
 <!-- Never mind others, then come to my world... -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AIntelligent)](https://github.com/ryo-ma/github-profile-trophy)
