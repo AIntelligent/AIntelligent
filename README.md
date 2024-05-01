@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=AIntelligent)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![AIntelligent's Stats](https://github-readme-stats.vercel.app/api?username=AIntelligent&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![AIntelligent's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AIntelligent&theme=default&hide_border=true)
 ![AIntelligent's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIntelligent&theme=default&show_icons=true&hide_border=true&layout=compact)
@@ -7,7 +9,6 @@
 
 ![AIntelligent's Visitors](https://komarev.com/ghpvc/?username=AIntelligent&color=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AIntelligent)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **AIntelligent/AIntelligent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
