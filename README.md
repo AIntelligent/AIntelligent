@@ -5,7 +5,7 @@
 ### Hi there 👋. 
     Never mind others, then come to my world...
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AIntelligent&rank=S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AIntelligent&rank=S,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![AIntelligent's Visitors](https://komarev.com/ghpvc/?username=AIntelligent&color=blue)
 
