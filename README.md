@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&multiline=true&random=false&width=500&lines=Never+mind+others%2C+then+come+to+my+world)](https://git.io/typing-svg)
 <!-- Never mind others, then come to my world... -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AIntelligent)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AIntelligent)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ![AIntelligent's Stats](https://github-readme-stats.vercel.app/api?username=AIntelligent&theme=default&show_icons=true&hide_border=true&count_private=true)
 ![AIntelligent's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AIntelligent&theme=default&hide_border=true)
